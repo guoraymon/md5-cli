@@ -1,0 +1,9 @@
+[package]
+name = "md5-cli"
+version = "1.0.0"
+authors = ["kuolw <kuolingwen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0"
+rust-crypto = "0.2"
